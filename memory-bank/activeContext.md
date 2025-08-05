@@ -16,7 +16,7 @@
    - Author (isim, bio, avatar)
 
 ## Aktif Odak
-Strapi'nin temel yapısını anlamak ve ilk content type'ları oluşturmak. Kullanıcı henüz Strapi'ye yeni başlıyor, bu yüzden her adımı açıklayarak ilerleyeceğiz.
+UI/UX iyileştirmeleri yapıyoruz. Proje GitHub'a başarıyla yüklendi, şimdi frontend tasarımını modernize ediyoruz.
 
 ## Önemli Notlar
 - Strapi v5.20.0 kullanıyoruz
